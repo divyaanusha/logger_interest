@@ -1,0 +1,9 @@
+2020-02-57 23:33:48 INFO Client:11 - reference created
+2020-02-57 23:33:48 INFO Client:13 - referencing simple_interest objct
+2020-02-57 23:33:48 INFO Client:14 - calling calculate of Simple_Interest object using reference
+2020-02-57 23:33:48 INFO Simple_Interest:15 - in Simple_Interest calculate method
+2020-02-57 23:33:48 INFO Client:17 - value returned from business logic and printed in console
+2020-02-57 23:33:48 INFO Client:19 - referencing Compound_interest objct
+2020-02-57 23:33:48 INFO Client:20 - calling calculate of Compound_Interest object using reference
+2020-02-57 23:33:48 INFO Compound_Interest:25 - in Compound_Interest calculate method
+2020-02-57 23:33:48 INFO Client:23 - value returned from business logic and printed in console

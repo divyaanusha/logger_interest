@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: epam.clean_code1_simple_and_compound_interest.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.04 s - in epam.clean_code1_simple_and_compound_interest.AppTest
